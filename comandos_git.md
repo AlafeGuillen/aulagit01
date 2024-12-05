@@ -13,4 +13,4 @@
 ### git commit -M
 
 ### SUBIR CODIGO 
-### git push origin main
+### git push -u origin *main* **ou nome da branck** **-u para a primeiro push do arquivo**
